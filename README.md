@@ -1,1 +1,1 @@
-# practice_mmall
+MMALL_LEARNING
